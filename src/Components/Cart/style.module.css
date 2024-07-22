@@ -1,0 +1,10 @@
+.box {
+    margin-bottom: 5rem !important;
+    padding-top: 5rem !important ;
+}
+.changeCountBtn, .clearBtn {
+    border: 1px solid #0aad0a !important;
+}
+.clearBtn {
+    min-width: 10rem;
+}
